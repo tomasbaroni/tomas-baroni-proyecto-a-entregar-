@@ -1,0 +1,4 @@
+Agregue en el index, un meta name "description", que dice " Hardware para
+que tu computadora sea la mejor".
+y agregue tambien un meta name "keywords" que dice "Hardware, Gamer, Grafica, 
+procesador, CPU, GPU, Perifericos, PC GAMER"
